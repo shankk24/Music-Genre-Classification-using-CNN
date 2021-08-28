@@ -1,3 +1,4 @@
 # Music Genre Classification using CNN
 
-build a CNN model to classify music genres.
+A CNN model to Classify Music Genres on GTZAN Dataset from kaggle
+Achieved 92% Accuracy
